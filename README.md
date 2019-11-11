@@ -33,20 +33,20 @@ By the end of this part you will be able to:
 
 ## Outline
 
-* [Section 1: Language Basics](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#language-basics).
-* [Section 2: Strings](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#strings).
-* [Section 3: Basic Control Structures](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#basic-control-structures).
-* [Section 4: Tuples](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#tuples).
-* [Section 5: Arrays](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#arrays).
-* [Section 6: Dictionaries](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#dictionaries).
-* [Section 7: Sets](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#sets).
-* [Section 8: Optionals](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#optionals).
-* [Section 9: Implicitly Unwrapped Optionals](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#implicitly-unwrapped-optionals).
-* [Section 10: Enumerations](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#enumerations-aka-enums).
-* [Section 11: Switch](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#switch).
-* [Section 12: Functions](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#functionsmethods).
-* [Section 13: Closures](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#closures).
-* [Section 14: Classes and Protocols](https://github.com/youldash/Swift-Playgrounds/tree/master/cheatsheet#classes-and-protocols).
+* [Section 1: Language Basics](https://github.com/youldash/Swift-Playgrounds/tree/master#language-basics).
+* [Section 2: Strings](https://github.com/youldash/Swift-Playgrounds/tree/master#strings).
+* [Section 3: Basic Control Structures](https://github.com/youldash/Swift-Playgrounds/tree/master#basic-control-structures).
+* [Section 4: Tuples](https://github.com/youldash/Swift-Playgrounds/tree/master#tuples).
+* [Section 5: Arrays](https://github.com/youldash/Swift-Playgrounds/tree/master#arrays).
+* [Section 6: Dictionaries](https://github.com/youldash/Swift-Playgrounds/tree/master#dictionaries).
+* [Section 7: Sets](https://github.com/youldash/Swift-Playgrounds/tree/master#sets).
+* [Section 8: Optionals](https://github.com/youldash/Swift-Playgrounds/tree/master#optionals).
+* [Section 9: Implicitly Unwrapped Optionals](https://github.com/youldash/Swift-Playgrounds/tree/master#implicitly-unwrapped-optionals).
+* [Section 10: Enumerations](https://github.com/youldash/Swift-Playgrounds/tree/master#enumerations-aka-enums).
+* [Section 11: Switch](https://github.com/youldash/Swift-Playgrounds/tree/master#switch).
+* [Section 12: Functions](https://github.com/youldash/Swift-Playgrounds/tree/master#functionsmethods).
+* [Section 13: Closures](https://github.com/youldash/Swift-Playgrounds/tree/master#closures).
+* [Section 14: Classes and Protocols](https://github.com/youldash/Swift-Playgrounds/tree/master#classes-and-protocols).
 
 > Code listings were last checked using Xcode 9.4.1 (9F2000) on June 26, 2018.
 
@@ -994,7 +994,7 @@ print("2 + 3 = \(b)")
 
 Completed Xcode Playground for this exercise can be found in ZIP format (archived):
 
-* [CheatSheet.playground.zip](https://github.com/youldash/Swift-Playgrounds/blob/master/CheatSheet.playground.zip).
+* [CheatSheet.playground.zip](https://github.com/youldash/Swift-Playgrounds/blob/master.playground.zip).
 
 ## Trademark
 
