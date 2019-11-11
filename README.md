@@ -29,4 +29,4 @@ This repo was made possible, thanks to:
 
 ## License
 
-By using this site, you agree to the **Terms of Use** that are defined in [LICENSE.markdown](https://github.com/youldash/Swift-Playgrounds/blob/master/LICENSE.markdown).
+By using this site, you agree to the **Terms of Use** that are defined in [LICENSE](https://github.com/youldash/Swift-Playgrounds/blob/master/LICENSE).
