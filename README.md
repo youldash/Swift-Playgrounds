@@ -994,7 +994,7 @@ print("2 + 3 = \(b)")
 
 Completed Xcode Playground for this exercise can be found in ZIP format (archived):
 
-* [CheatSheet.playground.zip](https://github.com/youldash/Swift-Playgrounds/blob/master.playground.zip).
+* [CheatSheet.playground.zip](https://github.com/youldash/Swift-Playgrounds/blob/master/CheatSheet.playground.zip).
 
 ## Trademark
 
