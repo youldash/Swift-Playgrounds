@@ -17,8 +17,8 @@ Brought to you by:
 <div align="center">
 	<table border="0">
 		<tr>
-			<td align="center"><img src="https://raw.github.com/youldash/Swift-Playgrounds/master/misc/kkulogo.png" width="50%" /></td>
-			<td align="center"><img src="https://raw.github.com/youldash/Swift-Playgrounds/master/misc/IAU.jpg" width="75%" /></td>
+			<td align="center"><img src="https://raw.github.com/youldash/Swift-Playgrounds/master/misc/kkulogo.png" width="25%" /></td>
+			<td align="center"><img src="https://raw.github.com/youldash/Swift-Playgrounds/master/misc/IAU.jpg" width="100%" /></td>
 		</tr>
 	</table>
 </div>
